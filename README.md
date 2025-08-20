@@ -1,5 +1,5 @@
 ## Harlequin mysql nix
-**Harlequing with mysql support for NixOS
+** Harlequing with mysql support for NixOS
 
 ### Why
 Because the current nixpkgs do not include mysql adapter for harlequin.
