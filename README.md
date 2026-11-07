@@ -1,14 +1,13 @@
-## Harlequin mysql nix
-** Harlequing with mysql support for NixOS
+# Harlequin with mysql support for NixO
 
-### Why
+## Why
 Because the current nixpkgs do not include mysql adapter for harlequin.
 This flake includes a custom implementation of missing dependencies
 
-### Simple usage
+## Simple usage
 To install: `nix profile install github:mjakobsche/harlequin-mysql-nix`
 
 To update: `nix profile upgrade harlequin-mysql-nix --refresh`
 
-### Disclaimer
+## Disclaimer
 The harlequin.nix file is based on the nixpkgs implementation.
